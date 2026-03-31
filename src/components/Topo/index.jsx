@@ -5,14 +5,14 @@ export default function Topo() {
         <header>
             <div className='anuncio'>
                 <div className='anuncio-conteudo'>
-                    <p>Tudo em 10x sem juros!</p>
+                    <p>Homem aranha em julho nos cinemas!</p>
                 </div>
             </div>
 
             <div className='topo'>
                 <picture>
                     <a href='#'>
-                        <img src='./logoLoja.png' />
+                        <img src='./marvelicon.png' />
                     </a>
                 </picture>
 
