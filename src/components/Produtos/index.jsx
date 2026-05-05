@@ -30,7 +30,7 @@ export default function Produtos() {
                     
                      <div className='card'>
                         <div className='card-image'>
-                            <img src={sandalia1} alt="Sadália marrom" />
+                            <img src={tenis} alt="Sadália marrom" />
                             <span className='badge-venda'>Mais vendidos</span>
                         </div>
                         <div className='card-info'>
@@ -79,7 +79,7 @@ export default function Produtos() {
 
                      <div className='card'>
                         <div className='card-image'>
-                            <img src={tenis} alt="Tenis Preto" />
+                            <img src={note} alt="Tenis Preto" />
                             <span className='badge-venda'>Ultima oportunidade</span>
                         </div>
                         <div className='card-info'>
